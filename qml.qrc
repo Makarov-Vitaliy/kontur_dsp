@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>LabelMain.qml</file>
+        <file>ButtonText.qml</file>
+        <file>Header.qml</file>
+        <file>LoadingScreen.qml</file>
+        <file>FailConnection.qml</file>
+        <file>CustomSlider.qml</file>
+        <file>ButtonMenu.qml</file>
+        <file>DelayMenu.qml</file>
+        <file>Eq.qml</file>
+        <file>CardBase.qml</file>
+        <file>ButtonImage.qml</file>
+        <file>TextValue.qml</file>
+        <file>ContextMenu.qml</file>
+        <file>ContextMenuItem.qml</file>
+        <file>MainVolumePart.qml</file>
+        <file>DialogCustom.qml</file>
+        <file>TextInputDialog.qml</file>
+        <file>EqSliderRow.qml</file>
+        <file>DelayControls.qml</file>
+        <file>CardMainVolume.qml</file>
+        <file>MixerMenu.qml</file>
+    </qresource>
+</RCC>

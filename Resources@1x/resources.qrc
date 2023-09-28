@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/delay.png</file>
+        <file>Resources/output.png</file>
+        <file>Resources/mixer.png</file>
+        <file>Resources/eq.png</file>
+        <file>Resources/main.png</file>
+        <file>Resources/big_plus.png</file>
+        <file>Resources/plus.png</file>
+        <file>Resources/minus.png</file>
+        <file>Resources/big_minus.png</file>
+        <file>Resources/menu.png</file>
+    </qresource>
+</RCC>

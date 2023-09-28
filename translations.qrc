@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tr/KonturDSP_ru_RU.ts</file>
+    </qresource>
+</RCC>
